@@ -1,0 +1,70 @@
+Translacja STEP do Solid Edge
+Data: poniedzia³ek,listopad 15,2021 01:03AM
+Plik Ÿród³owy: E:\STUDIA\Mechatronika Sem7\Praca In¿ynierska\CAD\SKF_CAD_MODEL_SKF_6005-2RSH\SKF_6005-2RSH.stp
+Autor: License CC BY-ND 4.0
+Organizacja: CADENAS
+System Ÿród³owy: PARTsolutions
+
+Sprzêt:
+Procesor: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+System operacyjny: Windows 10
+Zainstalowana pamiêæ: 7.87 GB
+
+Informacje o oprogramowaniu
+Wersja Parasolid: 32.1.222
+Wersja PSBodyShop: 32.1.94
+Wersja adaptera Step: 5.0.107
+Wersja Solid Edge: 221.00.03.003 x64
+
+Opcje importu STEP
+Importuj bry³y uproszczone: W³¹cz
+Importuj bry³y kontrolne: Wy³¹cz
+Importuj krzywe: W³¹cz
+Importuj bez zapisu: W³¹cz
+Importuj wiele obiektów jako pojedynczy plik czêœci: W³¹cz
+Importuj powierzchnie zszywane: W³¹cz
+Importuj obiekty bry³owe operacji Boole'a: W³¹cz
+Utwórz element podstawowy: W³¹cz
+Upraszczaj geometriê: W³¹cz
+Importuj krzywe odciœniête: W³¹cz
+Importuj napêd: C:
+Importuj powierzchnie zszywane: W³¹cz
+Importuj powierzchnie: W³¹cz
+Importuj œcie¿kê wyjœciow¹: E:\STUDIA\Mechatronika Sem7\Praca In¿ynierska\CAD\SKF_CAD_MODEL_SKF_6005-2RSH
+Importuj domyœln¹ œcie¿kê wyjœciow¹: W³¹cz
+Importuj PMI: Wy³¹cz
+Importuj jako komponenty wewnêtrzne: Wy³¹cz
+Œcie¿ka importu: 
+
+Translacja do typów danych Parasolid...
++Pocz¹tek z³o¿enia: 1
++Utworzono plik z³o¿enia SE E:\STUDIA\Mechatronika Sem7\Praca In¿ynierska\CAD\SKF_CAD_MODEL_SKF_6005-2RSH\SKF_6005-2RSH.asm
+|--+Utworzono plik czêœci SE E:\STUDIA\Mechatronika Sem7\Praca In¿ynierska\CAD\SKF_CAD_MODEL_SKF_6005-2RSH\_SKF_6005-2RSH_PART1.par
+|--+Utworzono plik czêœci SE E:\STUDIA\Mechatronika Sem7\Praca In¿ynierska\CAD\SKF_CAD_MODEL_SKF_6005-2RSH\_SKF_6005-2RSH_PART2.par
+|--+Utworzono plik czêœci SE E:\STUDIA\Mechatronika Sem7\Praca In¿ynierska\CAD\SKF_CAD_MODEL_SKF_6005-2RSH\_SKF_6005-2RSH_PART3.par
+|--+Ponowne u¿ycie pliku E:\STUDIA\Mechatronika Sem7\Praca In¿ynierska\CAD\SKF_CAD_MODEL_SKF_6005-2RSH\_SKF_6005-2RSH_PART3.par
+|--+Ponowne u¿ycie pliku E:\STUDIA\Mechatronika Sem7\Praca In¿ynierska\CAD\SKF_CAD_MODEL_SKF_6005-2RSH\_SKF_6005-2RSH_PART3.par
+|--+Ponowne u¿ycie pliku E:\STUDIA\Mechatronika Sem7\Praca In¿ynierska\CAD\SKF_CAD_MODEL_SKF_6005-2RSH\_SKF_6005-2RSH_PART3.par
+|--+Ponowne u¿ycie pliku E:\STUDIA\Mechatronika Sem7\Praca In¿ynierska\CAD\SKF_CAD_MODEL_SKF_6005-2RSH\_SKF_6005-2RSH_PART3.par
+|--+Ponowne u¿ycie pliku E:\STUDIA\Mechatronika Sem7\Praca In¿ynierska\CAD\SKF_CAD_MODEL_SKF_6005-2RSH\_SKF_6005-2RSH_PART3.par
+|--+Ponowne u¿ycie pliku E:\STUDIA\Mechatronika Sem7\Praca In¿ynierska\CAD\SKF_CAD_MODEL_SKF_6005-2RSH\_SKF_6005-2RSH_PART3.par
+|--+Ponowne u¿ycie pliku E:\STUDIA\Mechatronika Sem7\Praca In¿ynierska\CAD\SKF_CAD_MODEL_SKF_6005-2RSH\_SKF_6005-2RSH_PART3.par
+|--+Ponowne u¿ycie pliku E:\STUDIA\Mechatronika Sem7\Praca In¿ynierska\CAD\SKF_CAD_MODEL_SKF_6005-2RSH\_SKF_6005-2RSH_PART3.par
+|--+Ponowne u¿ycie pliku E:\STUDIA\Mechatronika Sem7\Praca In¿ynierska\CAD\SKF_CAD_MODEL_SKF_6005-2RSH\_SKF_6005-2RSH_PART3.par
+|--+Utworzono plik czêœci SE E:\STUDIA\Mechatronika Sem7\Praca In¿ynierska\CAD\SKF_CAD_MODEL_SKF_6005-2RSH\_SKF_6005-2RSH_PART4.par
+|--+Ponowne u¿ycie pliku E:\STUDIA\Mechatronika Sem7\Praca In¿ynierska\CAD\SKF_CAD_MODEL_SKF_6005-2RSH\_SKF_6005-2RSH_PART4.par
+|--+Ponowne u¿ycie pliku E:\STUDIA\Mechatronika Sem7\Praca In¿ynierska\CAD\SKF_CAD_MODEL_SKF_6005-2RSH\_SKF_6005-2RSH_PART4.par
+|--+Ponowne u¿ycie pliku E:\STUDIA\Mechatronika Sem7\Praca In¿ynierska\CAD\SKF_CAD_MODEL_SKF_6005-2RSH\_SKF_6005-2RSH_PART4.par
+|--+Ponowne u¿ycie pliku E:\STUDIA\Mechatronika Sem7\Praca In¿ynierska\CAD\SKF_CAD_MODEL_SKF_6005-2RSH\_SKF_6005-2RSH_PART4.par
+|--+Ponowne u¿ycie pliku E:\STUDIA\Mechatronika Sem7\Praca In¿ynierska\CAD\SKF_CAD_MODEL_SKF_6005-2RSH\_SKF_6005-2RSH_PART4.par
+|--+Ponowne u¿ycie pliku E:\STUDIA\Mechatronika Sem7\Praca In¿ynierska\CAD\SKF_CAD_MODEL_SKF_6005-2RSH\_SKF_6005-2RSH_PART4.par
+|--+Ponowne u¿ycie pliku E:\STUDIA\Mechatronika Sem7\Praca In¿ynierska\CAD\SKF_CAD_MODEL_SKF_6005-2RSH\_SKF_6005-2RSH_PART4.par
+|--+Ponowne u¿ycie pliku E:\STUDIA\Mechatronika Sem7\Praca In¿ynierska\CAD\SKF_CAD_MODEL_SKF_6005-2RSH\_SKF_6005-2RSH_PART4.par
+|--+Ponowne u¿ycie pliku E:\STUDIA\Mechatronika Sem7\Praca In¿ynierska\CAD\SKF_CAD_MODEL_SKF_6005-2RSH\_SKF_6005-2RSH_PART4.par
++Wszystkich czêœci: 15
++Z³o¿eñ: 0
++Bry³: 15
++Obiektów powierzchniowych: 0
++Koniec z³o¿enia: 1
+Proces translacji zosta³ zakoñczony
+Ca³kowity czas wymagany do translacji i dalszego przetwarzania:00 : 00 : 04
